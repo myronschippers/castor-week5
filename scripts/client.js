@@ -9,7 +9,7 @@ const hairColorOpt4 = ['orange'];
 hairColorOpt2();
 
 const person = {
-  name: 3,
+  name: 'Myron',
   hairColor: hairColorOpt2,
 };
 console.log(person);
